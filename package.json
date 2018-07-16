@@ -2,6 +2,10 @@
   "name": "node-web-server",
   "version": "1.0.0",
   "main": "index.js",
+  "Scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
   "repository": "https://github.com/bdurb/node-web-server.git",
   "author": "bdurb <brian@rpmgreenville.com>",
   "license": "MIT",
